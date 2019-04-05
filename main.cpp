@@ -32,6 +32,7 @@ int main() {
         std::cout << backpack.currentState();
 #endif
     }
+    std::cout << "final result \n" << maxState;
 
     return 0;
 }
